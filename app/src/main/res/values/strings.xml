@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LorenzoWordlProject</string>
+    <string name="wordToGuess">LorenzoWordlProject</string>
+    <string name="guessedWord">LorenzoWordlProject</string>
+    <string name="WORD">WORD</string>
+    <string name="word">WORD</string>
+
+</resources>
